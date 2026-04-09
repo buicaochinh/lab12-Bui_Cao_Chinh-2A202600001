@@ -158,7 +158,7 @@
   {
     "id": "ha-long",
     "name": "BV ĐKQT Vinmec Hạ Long",
-    "address": "Quảng Ninh",
+    "address": "Hạ Long",
     "specialities": [
       "tiem-chung-vac-xin-nguoi-lon",
       "san-phu-khoa",
@@ -192,7 +192,7 @@
   {
     "id": "nha-trang",
     "name": "BV ĐKQT Vinmec Nha Trang",
-    "address": "Khánh Hòa",
+    "address": "Nha Trang",
     "specialities": [
       "ho-tro-sinh-san",
       "tiem-chung-vac-xin-nguoi-lon",
@@ -257,7 +257,7 @@
   {
     "id": "phu-quoc",
     "name": "BV ĐKQT Vinmec Phú Quốc",
-    "address": "Kiên Giang",
+    "address": "Phú Quốc",
     "specialities": [
       "tiem-chung-vac-xin-nguoi-lon",
       "san-phu-khoa",
@@ -284,7 +284,7 @@
   {
     "id": "cdd",
     "name": "PK ĐKQT Vinmec Dương Đông",
-    "address": "Kiên Giang",
+    "address": "Dương Đông",
     "specialities": [
       "san-phu-khoa",
       "ngoai-than-kinh",
