@@ -3,3 +3,7 @@ langchain-openai
 langgraph
 python-dotenv
 unidecode
+streamlit
+gradio
+fastapi
+uvicorn
