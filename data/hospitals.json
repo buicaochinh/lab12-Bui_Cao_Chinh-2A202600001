@@ -2,7 +2,7 @@
   {
     "id": "times-city",
     "name": "BV ĐKQT Vinmec Times City (Hà Nội)",
-    "address": "Vinmec Hà Nội",
+    "address": "Hà Nội",
     "specialities": [
       "ho-tro-sinh-san",
       "phong-kham-tien-man-kinh-man-kinh",
@@ -56,7 +56,7 @@
   {
     "id": "ocean-park-2",
     "name": "BV ĐKQT Vinmec Ocean Park 2 (Hưng Yên)",
-    "address": "Vinmec Ocean Park 2",
+    "address": "Hưng Yên",
     "specialities": [
       "noi-tieu-hoa",
       "ngoai-than-tiet-nieu",
@@ -80,7 +80,7 @@
   {
     "id": "central-park",
     "name": "BV ĐKQT Vinmec Central Park (Hồ Chí Minh)",
-    "address": "Vinmec Hồ Chí Minh",
+    "address": "Hồ Chí Minh",
     "specialities": [
       "san-phu-khoa",
       "ngoai-nhi",
@@ -126,7 +126,7 @@
   {
     "id": "hai-phong",
     "name": "BV ĐKQT Vinmec Hải Phòng",
-    "address": "Vinmec Hải Phòng",
+    "address": "Hải Phòng",
     "specialities": [
       "ho-tro-sinh-san",
       "tiem-chung-vac-xin-nguoi-lon",
@@ -158,7 +158,7 @@
   {
     "id": "ha-long",
     "name": "BV ĐKQT Vinmec Hạ Long",
-    "address": "Vinmec Hạ Long",
+    "address": "Quảng Ninh",
     "specialities": [
       "tiem-chung-vac-xin-nguoi-lon",
       "san-phu-khoa",
@@ -192,7 +192,7 @@
   {
     "id": "nha-trang",
     "name": "BV ĐKQT Vinmec Nha Trang",
-    "address": "Vinmec Nha Trang",
+    "address": "Khánh Hòa",
     "specialities": [
       "ho-tro-sinh-san",
       "tiem-chung-vac-xin-nguoi-lon",
@@ -222,7 +222,7 @@
   {
     "id": "da-nang",
     "name": "BV ĐKQT Vinmec Đà Nẵng",
-    "address": "Vinmec Đà Nẵng",
+    "address": "Đà Nẵng",
     "specialities": [
       "san-phu-khoa",
       "ngoai-nhi",
@@ -257,7 +257,7 @@
   {
     "id": "phu-quoc",
     "name": "BV ĐKQT Vinmec Phú Quốc",
-    "address": "Vinmec  Phú  Quốc",
+    "address": "Kiên Giang",
     "specialities": [
       "tiem-chung-vac-xin-nguoi-lon",
       "san-phu-khoa",
@@ -284,7 +284,7 @@
   {
     "id": "cdd",
     "name": "PK ĐKQT Vinmec Dương Đông",
-    "address": "Vinmec Dương Đông",
+    "address": "Kiên Giang",
     "specialities": [
       "san-phu-khoa",
       "ngoai-than-kinh",
@@ -310,7 +310,7 @@
   {
     "id": "smart-city",
     "name": "BV ĐKQT Vinmec Smart City (Hà Nội)",
-    "address": "Vinmec Smart City",
+    "address": "Hà Nội",
     "specialities": [
       "ho-tro-sinh-san",
       "san-phu-khoa",
@@ -351,7 +351,7 @@
   {
     "id": "can-tho",
     "name": "BV ĐKQT Vinmec Cần Thơ",
-    "address": "Vinmec Cần Thơ",
+    "address": "Cần Thơ",
     "specialities": [
       "tiem-chung-vac-xin-nguoi-lon",
       "san-phu-khoa",
@@ -387,7 +387,7 @@
   {
     "id": "grand-park",
     "name": "PK ĐKQT Vinmec Grand Park (Hồ Chí Minh)",
-    "address": "Vinmec Grand Park",
+    "address": "Hồ Chí Minh",
     "specialities": [
       "ngoai-tim-mach",
       "noi-tim-mach",
