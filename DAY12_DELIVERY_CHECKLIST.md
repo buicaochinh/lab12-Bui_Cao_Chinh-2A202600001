@@ -1,8 +1,8 @@
 # 📦 Delivery Checklist — Day 12 Lab Submission
 
-> **Student Name:** _________________________  
-> **Student ID:** _________________________  
-> **Date:** _________________________
+> **Student Name:** Bui Cao Chinh
+> **Student ID:** 2A202600001
+> **Date:** 17/4/2026
 
 ---
 
@@ -199,9 +199,9 @@ curl -H "X-API-Key: YOUR_KEY" https://your-app.railway.app/ask \
 # Should return 200
 
 # 4. Rate limiting
-for i in {1..15}; do 
+for i in {1..15}; do
   curl -H "X-API-Key: YOUR_KEY" https://your-app.railway.app/ask \
-    -X POST -d '{"user_id":"test","question":"test"}'; 
+    -X POST -d '{"user_id":"test","question":"test"}';
 done
 # Should eventually return 429
 ```
