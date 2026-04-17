@@ -6,4 +6,6 @@ __pycache__/
 venv/
 .venv/
 .git/
+*.md
+tests/
 .DS_Store
